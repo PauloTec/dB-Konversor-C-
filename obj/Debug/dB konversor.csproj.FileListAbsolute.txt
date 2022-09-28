@@ -17,3 +17,13 @@ C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos P
 C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\dB konversor\obj\Debug\dB_konversor.Properties.Resources.resources
 C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\dB konversor\obj\Debug\dB konversor.csproj.GenerateResource.Cache
 C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\dB konversor\obj\Debug\dB_konversor.conversor_v2.resources
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\bin\Debug\dB konversor.exe.config
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB konversor.exe
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB konversor.pdb
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\bin\Debug\dB konversor.exe
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\bin\Debug\dB konversor.pdb
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB konversor.csprojResolveAssemblyReference.cache
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB_konversor.conversor_v2.resources
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB_konversor.Form1.resources
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB_konversor.Properties.Resources.resources
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB konversor\obj\Debug\dB konversor.csproj.GenerateResource.Cache
