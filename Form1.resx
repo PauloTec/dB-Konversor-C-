@@ -120,4 +120,29 @@
   <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAA
+        AAD/////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////7+///+/v///v7///7+///+/v///v7///7+///+/v///v7///7+///+/v///v7///7+
+        ///+/v///v7///7+////////////////////////////////////////////////////////////////
+        ////////////////////////8fH//+np///o6P//6Oj//+jo///o6P//6Oj//+jo///o6P//6Oj//+jo
+        ///o6P//6Oj//+jo///p6f//8fH//xYW//8gIP//JCT//yEh//8hIf//ISH//yMj//8mJv//IyP//yEh
+        //8hIf//ISH//yEh//8mJv//ICD//xcX//8AAP//tLT////////8/P/////////////z8///6Oj///X1
+        ///////////////////6+v//+fn//7W1//8AAP//AAD//8/P//+1tf//VVX//1ZW//9wcP//39//////
+        //+wsP//WFj//1tb//9VVf//kJD////////Fxf//AAD//wAA///X1///bW3//yIi//+pqf//SUn//xAQ
+        ///6+v//dXX//yAg//+xsf//o6P//xIS//+Jif//1tb//wAA//8AAP//2dn//2lp//9PT///////////
+        //8fH///l5f//4GB//89Pf////////////85Of//eXn//9nZ//8AAP//AAD//9nZ//9nZ///Skr/////
+        ////////QED//3h4//+Njf//AAD//zQ0//8PD///Njb////////Gxv//AAD//wAA///Z2f//aGj//05O
+        ////////7Oz//woK//+trf//fn7//z09////////4uL//wYG///S0v//0ND//wAA//8AAP//1dX//3Jy
+        //8HB///VFT//xMT//9AQP///////3V1//8HB///Y2P//z4+//8PD///6en//8rK//8AAP//AAD//8nJ
+        ///l5f//q6v//6en///Nzf/////////////c3P//rq7//6am//+trf//6Oj////////ExP//AAD//wAA
+        //+qqv//8vL//+3t///x8f//6+v//93d///c3P//5ub//+/v///x8f//8PD//+Hh///o6P//q6v//wAA
+        //8TE///ExP//xUV//8SEv//ExP//xQU//8WFv//Fxf//xUV//8TE///ExP//xMT//8VFf//Fxf//xMT
+        //8UFP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
+  </data>
 </root>

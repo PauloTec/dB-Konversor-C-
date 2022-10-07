@@ -83,6 +83,10 @@ namespace dB_konversor
 
         }
 
-       
+        private void btnVersao2_Click(object sender, EventArgs e)
+        {
+            conversor_v2 v2 = new conversor_v2();
+            v2.Show();
+        }
     }
 }
