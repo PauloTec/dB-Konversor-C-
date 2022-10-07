@@ -2,24 +2,17 @@
 
 # O QUE É
 	• Um software que ajuda na conversão de unidades usados diariamente 
-		nos sistemas de telecomunicações e sistemas que trabalham propagação de ondas sonoras.
+	nos sistemas de telecomunicações e sistemas que trabalham propagação de ondas sonoras.
 
 # A QUEM SE DESTINA / OBJETIVO
 	• Este projeto é para todos os engenheiros e entusiastas de redes de comunicações e programadores.
 
-	• O objetivo deste software é facilitar na resolução de cálculos tornando intuitivo a conversão entre diferentes grandezas.
+	• O objetivo deste software é facilitar na resolução de cálculos tornando intuitivo a 
+	conversão entre diferentes grandezas.
 
 # INSTALAÇÃO LOCAL
 
-	• Instale apache, php e sql ao seu modo (xampp, wamp ou individual), instale o composer e o git; 
-		Em seu servidor local baixe o projeto usando git clone; 
-		Digite: composer install para instalar as bibliotecas; 
-
-	• Instale database.sql em PHPMyAdmin; 
-
-	• Agora, para que o envio de e-mail funcione localmente habilide a extensão open_openssl e php_sockets* no php.ini, 
-		basta abrir o php.ini e usando Ctrl+F busque pelos termos openssl, descomente e depois depois repita os procedimentos para sockets, 
-		não se esqueça de reiniciar o apache depois do procedimento;
+	• Instale Microsoft Visual Studio (2015) ou versão recente. 
 
 # CONVENÇÕES
 
@@ -32,7 +25,7 @@
 	4 - Botões: btnNome
 	
 # SE VOCÊ CHEGOU ATÉ AQUI
-	Muito obrigado pela atenção
+	Muito obrigado pela atenção!
 
 # CONTACTOS: Idéias? Vamos discutir.
 
