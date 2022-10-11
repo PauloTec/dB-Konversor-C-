@@ -36,8 +36,7 @@ namespace dB_konversor
         
         private void button2_Click(object sender, EventArgs e)
         {
-            txtValorAConverter.Text = string.Empty; //limpa a TextBox
-            txtValorSaida.Text = string.Empty;
+            limparTela();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -50,35 +49,44 @@ namespace dB_konversor
             dBm= 10log(p1/.001)
             */
 
-            valor_entrada = Double.Parse(txtValorAConverter.Text);
-
-            if (operacao == 0)
+            try
             {
-                MessageBox.Show("Escolha uma grandeza.");
+                valor_entrada = Double.Parse(txtValorAConverter.Text);
+
+                if (operacao == 0)
+                {
+                    MessageBox.Show("Escolha uma grandeza.");
+                }
+
+                if (operacao == 1)
+                {
+                    //Converter em miliwatts
+                    resultado = valor_entrada * 1000;
+                    txtValorSaida.Text = resultado.ToString();
+                }
+
+                if (operacao == 2)
+                {
+                    //Converter em dB
+                    resultado = 10 * (Math.Log(valor_entrada));
+
+                    double teste = Math.Log10(valor_entrada);
+                    txtValorSaida.Text = teste.ToString();
+                    //txtValorSaida.Text = resultado.ToString();
+                }
+
+                if (operacao == 3)
+                {
+                    //Converter em dBm
+                    resultado = 10 * (Math.Log10((valor_entrada) / 0.001));
+                    txtValorSaida.Text = resultado.ToString();
+                }
             }
-
-            if (operacao == 1)
+            catch(Exception exc)
             {
-                //Converter em miliwatts
-                resultado = valor_entrada * 1000;
-                txtValorSaida.Text = resultado.ToString();
-            }
-
-            if (operacao == 2)
-            {
-                //Converter em dB
-                resultado = 10*(Math.Log(valor_entrada));
-
-                double teste = Math.Log10(valor_entrada);
-                txtValorSaida.Text = teste.ToString();
-                //txtValorSaida.Text = resultado.ToString();
-            }
-
-            if (operacao == 3)
-            {
-                //Converter em dBm
-                resultado = 10 * (Math.Log10((valor_entrada) / 0.001));
-                txtValorSaida.Text = resultado.ToString();
+                MessageBox.Show(exc.Message);
+                MessageBox.Show("Inserir um número válido!","ATENÇÃO", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                limparTela();
             }
 
         }
@@ -87,6 +95,13 @@ namespace dB_konversor
         {
             conversor_v2 v2 = new conversor_v2();
             v2.Show();
+        }
+
+        private void limparTela()
+        {
+            //limpa a TextBox
+            txtValorAConverter.Text = string.Empty; 
+            txtValorSaida.Text = string.Empty;
         }
     }
 }
